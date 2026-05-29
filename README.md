@@ -13,16 +13,6 @@ Currently building real projects while studying DSA and preparing for college.
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| [Boomy-bot](https://github.com/Luffotico229/Boomy-bot) | Discord bot with cyberpunk aesthetic — auto-roles, user scans & more |
-| [Asteroids-Game](https://github.com/Luffotico229/Asteroids-Game) | Classic Asteroids game built in Python |
-| [Ai-Agent](https://github.com/Luffotico229/Ai-Agent) | AI agent project built during Boot.dev training |
-
----
-
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - Python certification (PCEP)
